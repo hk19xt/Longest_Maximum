@@ -12,4 +12,4 @@ public class Main {
         output = l.Longest(userArray,size);
         System.out.println(output);
     }
-}
+}//Main
